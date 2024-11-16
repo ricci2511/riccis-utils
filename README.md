@@ -1,6 +1,6 @@
 # riccis-utils
 
-A collection of utilities, tools, and scripts tailored for my homelab enthusiasts. Each tool serves a unique purpose, ranging from file organization to media processing.
+A collection of utilities, tools, and scripts tailored for my homelab.
 
 ## Utilities Overview
 
